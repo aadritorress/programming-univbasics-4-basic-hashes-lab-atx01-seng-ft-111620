@@ -12,5 +12,5 @@ end
 
 
 def id_hash_generator(5)
-:id.object_id
+:my_number.object_id
   end
