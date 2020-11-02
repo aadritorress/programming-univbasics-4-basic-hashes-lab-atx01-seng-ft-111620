@@ -1,9 +1,9 @@
 def new_hash
-  create_a_hash = Hash.new
+  create_a_hash = {}
 end
 
 def my_hash
-  {:my_wife => "Libby" }
+  {my wife: "Libby" }
 end
 
 def pioneer
