@@ -11,6 +11,6 @@ def pioneer
 end
 
 
-def id_hash_generator(5)
-:my_number.object_id
+def id_hash_generator(number)
+:id = number 
   end
