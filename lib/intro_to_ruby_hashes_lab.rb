@@ -3,7 +3,7 @@ def new_hash
 end
 
 def my_hash
-  {my wife: "Libby" }
+  {my_wife: "Libby" }
 end
 
 def pioneer
